@@ -8,7 +8,7 @@ tuplemax_loss.py - Pytorch implementation of Tuplemax loss from Wan, Li, et al. 
 
 See my article about spoken language recognition on Medium:
 
-1. [Data selection and preprocessing](https://medium.com/@sergeyvilov/cracking-mozilla-common-voice-part-i-fb84d06e1e6d)
-2. [Choosing optimal model](https://medium.com/@sergeyvilov/spoken-language-recognition-on-mozilla-common-voice-part-ii-ec11ac79178)
-3. [Audio transformations](https://medium.com/@sergeyvilov/spoken-language-recognition-on-mozilla-common-voice-audio-transformations-f0a2399e423b)
+1. [Data selection and preprocessing](https://towardsdatascience.com/spoken-language-recognition-on-mozilla-common-voice-part-i-3f5400bbbcd8)
+2. [Choosing optimal model](https://towardsdatascience.com/spoken-language-recognition-on-mozilla-common-voice-part-ii-models-b32780ea1ee4)
+3. [Audio transformations](https://towardsdatascience.com/spoken-language-recognition-on-mozilla-common-voice-audio-transformations-24d5ceaa832b)
 
